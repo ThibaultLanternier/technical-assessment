@@ -1,6 +1,6 @@
 {
-  "name": "starwars-character-search",
-  "version": "0.1.0",
+  "name": "starwars-who-s-who",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
